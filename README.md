@@ -11,14 +11,14 @@ This project mainly focuses on real-time embedded system design, EEPROM-based da
 
 🔷 Features
 
-    * Real-Time Dashboard Display
-    * Display Time, Event/Gear Status & Speed
-    * Event Logging in EEPROM
-    * View Stored Logs on CLCD
-    * Download Logs through UART
-    * Clear Stored Logs
-    * Set Time using Matrix Keypad
-    * ADC-Based Speed Reading
+    - Real-Time Dashboard Display
+    - Display Time, Event/Gear Status & Speed
+    - Event Logging in EEPROM
+    - View Stored Logs on CLCD
+    - Download Logs through UART
+    - Clear Stored Logs
+    - Set Time using Matrix Keypad
+    - ADC-Based Speed Reading
     * RTC-Based Real-Time Tracking
     * Menu-Driven User Interface
     * State-Machine Based Implementation
