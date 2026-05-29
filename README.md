@@ -130,6 +130,7 @@ Each log stores:
 
 🧠 State Machine Used
 
+
     The project is implemented using a state-machine approach.
     
     ```c
@@ -146,6 +147,7 @@ Each log stores:
 
 🔶 Events Used
 
+
     ```text
     ON  - System ON
     GN  - Gear Neutral
@@ -160,6 +162,7 @@ Each log stores:
 
 📌 Applications
 
+
     * Vehicle event monitoring system
     * Accident/event analysis support
     * Driver activity tracking
@@ -169,6 +172,7 @@ Each log stores:
 
 
 📚 Key Learnings
+
 
     * Interfacing CLCD with PIC microcontroller
     * Reading analog speed input using ADC
