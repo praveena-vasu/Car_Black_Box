@@ -11,17 +11,16 @@ This project mainly focuses on real-time embedded system design, EEPROM-based da
 
 🔷 Features
 
-        - Real-Time Dashboard Display
-        - Event Logging in EEPROM
-        - View Stored Logs on CLCD
-        - Download Logs through UART
-        - Clear Stored Logs
-        - Set Time using Matrix Keypad
-        - ADC-Based Speed Reading
-        - RTC-Based Real-Time Tracking
-        - Menu-Driven User Interface
-        - State-Machine Based Implementation
-
+        * Real-Time Dashboard Display
+        * Event Logging in EEPROM
+        * View Stored Logs on CLCD
+        * Download Logs through UART
+        * Clear Stored Logs
+        * Set Time using Matrix Keypad
+        * ADC-Based Speed Reading
+        * RTC-Based Real-Time Tracking
+        * Menu-Driven User Interface
+        * State-Machine Based Implementation
 
 
 ⚙️ Technologies Used
@@ -129,7 +128,6 @@ Each log stores:
 ```
 
 
-
 🧠 State Machine Used
 
     The project is implemented using a state-machine approach.
@@ -146,7 +144,6 @@ Each log stores:
     Using a state machine makes the project easier to organize, because each operation is handled as a separate state.
 
 
-
 🔶 Events Used
 
     ```text
@@ -161,7 +158,6 @@ Each log stores:
     C_  - Collision/Event Alert
     ```
 
-
 📌 Applications
 
     * Vehicle event monitoring system
@@ -170,7 +166,6 @@ Each log stores:
     * Embedded data logging application
     * EEPROM and RTC-based monitoring system
     * Automotive embedded system learning project
-
 
 
 📚 Key Learnings
