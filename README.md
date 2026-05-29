@@ -127,8 +127,7 @@ Each log stores:
     Return to Dashboard
 ```
 
-
-🧠 State Machine Used
+🧠  State Machine Used
 
 
     The project is implemented using a state-machine approach.
